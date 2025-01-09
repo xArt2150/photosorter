@@ -4,7 +4,7 @@ This is the small utility that just sort photos from smartphone by date and put 
 
 > "2014_03_12_164455.jpeg" goes to "2014_03_12/2014_03_12_164455.jpeg"
 
-### Using
+### Usage
 
 ```
 PhotoSorter --path [path with photos]
